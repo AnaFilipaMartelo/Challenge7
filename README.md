@@ -1,6 +1,6 @@
 # FinTech ETF Performance Analysis
 
-This project involves building a financial database and web application using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF. The goal is to gain insights into the ETF's performance and visualize the data through interactive visualizations.
+In this project, you will leverage the power of SQL, Python, and the Voilà library to create a financial database and web application. The goal is to gain insights into the ETF's performance and visualize the data through interactive visualizations.
 
 ---
 
