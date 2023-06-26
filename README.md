@@ -13,6 +13,7 @@ The technologies used in this project include:
    * Pandas 1.5.3
    * hvPlot 0.8.4
    * SQLAlchemy 1.4.39
+   * Voilà 0.3.4
 ---
 
 ## Installation Guide
@@ -29,10 +30,11 @@ Next, install the packages hvplot and geoviews with the following code:
   conda install -c pyviz hvplot geoviews
 ```
 
-Lastly, install SQLAlchemy:
+Lastly, install SQLAlchemy and Voilà:
 
 ```python
      pip install aqlalchemy
+     pip install -c conda-forge voila
 ```
 
 
@@ -59,6 +61,17 @@ The notebook also includes a step to join each table in the portfolio into a sin
 Lastly, you can visualize the cumulative return values of the ETF portfolio in an interactive line plot.
 
 Explore the interactive visualizations to gain insights into the ETF data and analyze the performance of the portfolio.
+
+To open the application in a Web page run the following command in the terminal:
+
+```python
+  voila <relative-path-to-etf_analyzer.ipynb>
+```
+
+This will display the web page with the interactive application.
+
+![Web Application Screenshot](WebAppScreenshot.png)
+
 
 ---
 
