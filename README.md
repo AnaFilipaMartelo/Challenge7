@@ -1,6 +1,6 @@
 # FinTech ETF Performance Analysis
 
-This project is a Jupyter notebook that provides an analysis of the ETF data stored in a SQL database. It includes professionally styled and formatted interactive visualizations to enhance data exploration and understanding.
+This project involves building a financial database and web application using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF. The goal is to gain insights into the ETF's performance and visualize the data through interactive visualizations.
 
 ---
 
